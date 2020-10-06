@@ -13,6 +13,11 @@ nav{
   height: 40px;
 }
 
+#apps {
+    width: 22px;
+    height: 22px;
+  }
+
 #sign-in {
   background-color: #2C58F5;
   border-radius: 3px;
@@ -23,7 +28,7 @@ nav{
 
 #top-left {
   position: absolute;
-  margin-top: 7px;
+  margin-top: 10px;
   margin-left: 10px;
 }
 #top-left a {
@@ -33,7 +38,7 @@ nav{
 #top-right {
   position: fixed;
   right:20px;
-  margin-top: 7px;
+  margin-top: 0px;
   margin-right: 10px;
 }
 #top-right a {
