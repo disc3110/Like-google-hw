@@ -68,6 +68,22 @@ nav{
   margin-right: auto;
 }
 
+.look-for-area a {
+  padding: 2px 0px 2px 2px;
+  width: 4%;
+}
+
+#mg-glass {
+  width: 90%;
+  height: auto;
+  padding-top: 30%;
+}
+
+.look-for-area input {
+  width: 94%;
+  border: none;
+}
+
 .look-for-buttton {
   display: block;
   margin-top: 20px;
